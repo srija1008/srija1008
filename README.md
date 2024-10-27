@@ -2,8 +2,8 @@
 
 ### Welcome to My GitHub Profile 👋
 
-### About Me ℹ️
-Greetings! I'm Srija Thirukkovela, an AI Engineer with a passion for developing intelligent systems and leveraging machine learning to solve complex problems. My journey in the realm of artificial intelligence has been exhilarating, filled with constant learning and exploration.
+### About Me ℹ
+I'm Srija Thirukkovela, an AI Engineer with a passion for developing intelligent systems and leveraging machine learning to solve complex problems. My journey in the realm of artificial intelligence has been exhilarating, filled with constant learning and exploration.
 
 🚀 **My Skills**
 - **Programming Languages**: Python, Java, C++
