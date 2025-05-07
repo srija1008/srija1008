@@ -6,8 +6,8 @@
 I'm Srija Thirukkovela, an AI Engineer with a passion for developing intelligent systems and leveraging machine learning to solve complex problems. My journey in the realm of artificial intelligence has been exhilarating, filled with constant learning and exploration.
 
 🚀 **My Skills**
-- **Programming Languages**: Python, Java, C++
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, scikit-learn
+- **Programming Languages**: Python
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, scikit-learn, keras
 - **Natural Language Processing**: NLTK, spaCy, Transformers
 - **Computer Vision**: OpenCV, TensorFlow Object Detection API
 - **Deployment & Productionization**: Docker, Kubernetes, AWS, Azure
