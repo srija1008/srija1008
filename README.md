@@ -16,6 +16,8 @@ I'm Srija Thirukkovela, an AI Engineer with a passion for developing intelligent
 - Reinforcement Learning algorithms and applications
 - Advanced deep learning architectures
 - MLOps practices for efficient model deployment and management
+### 🧠 LeetCode Stats
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-350%20problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 
 📫 **How to Reach Me**
 - **Email**: thirukkovelasrija@gmail.com
