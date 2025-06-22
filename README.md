@@ -1,24 +1,46 @@
-### Hi there 👋
+# 👋 Hi there, I'm Srija Thirukkovela
 
-### Welcome to My GitHub Profile 👋
+### 🧠 Welcome to My GitHub Profile!
 
-### About Me ℹ
-I'm Srija Thirukkovela, an AI Engineer with a passion for developing intelligent systems and leveraging machine learning to solve complex problems. My journey in the realm of artificial intelligence has been exhilarating, filled with constant learning and exploration.
+---
 
-🚀 **My Skills**
-- **Programming Languages**: Python
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, scikit-learn, keras
-- **Natural Language Processing**: NLTK, spaCy, Transformers
-- **Computer Vision**: OpenCV, TensorFlow Object Detection API
-- **Deployment & Productionization**: Docker, Kubernetes, AWS, Azure
+## 👩‍💻 About Me
+I'm **Srija Thirukkovela**, an AI Engineer focused on designing and developing AI/ML models, fine-tuning deep learning architectures, and implementing robust CI/CD pipelines for seamless deployment. My mission is to build intelligent systems that are both scalable and impactful.
 
-🌱 **What I'm Currently Learning**
-- Reinforcement Learning algorithms and applications
-- Advanced deep learning architectures
-- MLOps practices for efficient model deployment and management
-### 🧠 LeetCode Stats
-![LeetCode Badge](https://img.shields.io/badge/LeetCode-350%20problems-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+---
 
-📫 **How to Reach Me**
-- **Email**: thirukkovelasrija@gmail.com
-- **LinkedIn**: [Srija Thirukkovela](https://www.linkedin.com/in/srija-thirukkovela/)
+## 🚀 Skills & Technologies
+
+### 💻 Programming Languages
+- Python
+
+### 🤖 AI/ML Model Development
+- TensorFlow, PyTorch, scikit-learn, Keras  
+- Model fine-tuning & transfer learning  
+- Experiment tracking & reproducibility
+
+### 🧠 Natural Language Processing
+- NLTK, spaCy, Hugging Face Transformers
+
+### 👁️ Computer Vision
+- OpenCV, TensorFlow Object Detection API
+
+### ☁️ MLOps & Deployment
+- Docker, Kubernetes  
+- CI/CD: GitHub Actions, Docker Hub, Render  
+- Cloud Platforms: AWS, Azure
+
+---
+
+## 🌱 Currently Learning
+- Hadoop and Apache Spark for big data processing  
+- Reinforcement Learning algorithms  
+- Scalable MLOps practices and architecture patterns  
+
+---
+
+## 📫 Get in Touch
+- 📧 Email: [thirukkovelasrija@gmail.com](mailto:thirukkovelasrija@gmail.com)  
+- 💼 LinkedIn: [Srija Thirukkovela](https://www.linkedin.com/in/srija-thirukkovela)
+
+---
