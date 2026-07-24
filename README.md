@@ -1,20 +1,30 @@
 # 👋 Hi, I'm Thirukkovela Srija
 
-<h3 align="center">Data Scientist | Machine Learning | NLP | Generative AI | M.Sc. Statistics</h3>
+<h3 align="center">
+Data Scientist | Machine Learning Engineer | NLP | Generative AI | M.Sc. Statistics
+</h3>
+
+<p align="center">
+🎓 M.Sc. Statistics &nbsp; • &nbsp;
+📍 Hyderabad, India &nbsp; • &nbsp;
+💼 Open to Work
+</p>
 
 <p align="center">
   <a href="mailto:thirukkovelasrija@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/srija1008">
-    <img src="https://img.shields.io/badge/GitHub-srija1008-black?style=for-the-badge&logo=github">
-  </a>
+
   <a href="https://www.linkedin.com/in/srija-thirukkovela">
-    <img src="https://img.shields.io/badge/LinkedIn-Srija%20Thirukkovela-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/srija1008">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
+
 
 ## 💡 About Me
 
@@ -28,7 +38,7 @@
 
 📈 Currently seeking opportunities as a **Data Scientist**, **Machine Learning Engineer**, or **AI Engineer**.
 
----
+
 
 # 🛠 Tech Stack
 
@@ -38,7 +48,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
+
 
 ### Data Analysis
 
@@ -47,7 +57,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 
----
+
 
 ### Machine Learning
 
@@ -56,7 +66,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
----
+
 
 ### NLP & Generative AI
 
@@ -66,7 +76,7 @@
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 
----
+
 
 ### MLOps & Deployment
 
@@ -75,7 +85,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
----
+
 
 # 🚀 Featured Projects
 
@@ -87,7 +97,7 @@
 
 ✅ Context-aware AI responses
 
----
+
 
 ## 📊 Machine Learning Web Application
 
@@ -97,7 +107,7 @@
 
 ✅ Deployed on Hugging Face Spaces
 
----
+
 
 ## ⚙️ CI/CD Deployment Pipeline
 
@@ -107,19 +117,6 @@
 
 ✅ Render Deployment
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=srija1008&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srija1008&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -129,17 +126,7 @@
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srija1008&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
 
 # 🌱 Currently Learning
 
@@ -150,16 +137,37 @@
 - Apache Spark
 - Big Data Analytics
 
----
 
-# 📫 Connect With Me
 
-📧 Email: **thirukkovelasrija@gmail.com**
+## 🌐 Connect With Me
 
-💼 LinkedIn: **https://www.linkedin.com/in/srija-thirukkovela**
+<p align="left">
 
-💻 GitHub: **https://github.com/srija1008**
+<a href="mailto:thirukkovelasrija@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/srija-thirukkovela">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/srija1008">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/thirukkovelasrija">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/thirukkovelasrija/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/thirukkovelasrija">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
 
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
