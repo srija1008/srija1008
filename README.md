@@ -118,16 +118,6 @@ Data Scientist | Machine Learning Engineer | NLP | Generative AI | M.Sc. Statist
 ✅ Render Deployment
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=srija1008&theme=tokyonight"/>
-
-</p>
-
-
-
 # 🌱 Currently Learning
 
 - Agentic AI
